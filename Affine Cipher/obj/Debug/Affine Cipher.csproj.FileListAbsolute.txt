@@ -1,0 +1,16 @@
+E:\C#\Affine Cipher\Affine Cipher\bin\Debug\Affine Cipher.exe.config
+E:\C#\Affine Cipher\Affine Cipher\bin\Debug\Affine Cipher.exe
+E:\C#\Affine Cipher\Affine Cipher\bin\Debug\Affine Cipher.pdb
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\MainWindow.g.cs
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\App.g.cs
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher_MarkupCompile.cache
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher_MarkupCompile.lref
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\MainWindow.baml
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.g.resources
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine_Cipher.Properties.Resources.resources
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.csproj.GenerateResource.cache
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.csproj.CoreCompileInputs.cache
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.exe
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.pdb
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.csproj.AssemblyReference.cache
+E:\C#\Affine Cipher\Affine Cipher\obj\Debug\Affine Cipher.csproj.SuggestedBindingRedirects.cache
